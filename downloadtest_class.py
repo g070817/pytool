@@ -213,7 +213,7 @@ class download():
         for i in range(start_page, end_page):
 
             # 打印所属页面
-            print 'Current Pages: %s page will start download in 5 secs ', count_page
+            print 'Current Pages: %s page will start download in 5 secs ' %count_page
 
             # 组合当前页面链接，获取该页面下的全部链接内容
             list_url = 'http://xxxxxxxx'+ str(i) + '.html'
