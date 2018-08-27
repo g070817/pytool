@@ -5,6 +5,6 @@
 
 2. DownloadTest_class.py
 
-3. Optimised function and use multi processing to speed the download process 
+3. Optimised functions and use multi processing to speed up the download process 
 
 
